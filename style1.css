@@ -1,0 +1,19 @@
+h2{
+    color: black;
+    text-align: center;
+}
+div{
+    padding: 0px;
+    margin: auto;
+    width: 400px;
+    height: 150px;
+    border: thick;
+}
+legend{
+    text-align: center;
+}
+body{
+    background-image: url("pic.jpg");
+    font-style: normal;
+    font-size: large;
+}
